@@ -1,4 +1,4 @@
-## Hi, I’m @diegojfcampos! Welcome to my profile.
+## Welcome to my profile.
 
 
 <div align="center">
